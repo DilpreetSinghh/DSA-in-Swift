@@ -10,6 +10,7 @@
 		7D1B76BD2C4B5DC200247F1F /* 06_Linked_List.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = 06_Linked_List.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		7D59D4CF2C2FD87F001C9504 /* 04_Stacks.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = 04_Stacks.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		7DD1B62D2C33482E00D99CFC /* 08_Queue.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = 08_Queue.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		7DE716B22C4B882E004543FC /* rough-file.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "rough-file.swift"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXGroup section */
@@ -19,6 +20,7 @@
 				7DD1B62D2C33482E00D99CFC /* 08_Queue.playground */,
 				7D1B76BD2C4B5DC200247F1F /* 06_Linked_List.playground */,
 				7D59D4CF2C2FD87F001C9504 /* 04_Stacks.playground */,
+				7DE716B22C4B882E004543FC /* rough-file.swift */,
 			);
 			sourceTree = "<group>";
 		};
